@@ -2,4 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/LabWork4.Odd/LabWork4.Odd.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LabWork4.Odd.Tests/LabWork4.Odd.Tests.csproj" />
+  </Folder>
 </Solution>
