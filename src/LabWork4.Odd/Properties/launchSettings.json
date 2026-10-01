@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "LabWork4.Odd": {
+      "commandName": "Project",
+      "commandLineArgs": "all"
+    },
+    "Scenario 1 - Categories & Products": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    },
+    "Scenario 2 - Pagination": {
+      "commandName": "Project",
+      "commandLineArgs": "2"
+    },
+    "Scenario 3 - Filter & Sort": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    },
+    "Scenario 4 - Search": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    }
+  }
+}
